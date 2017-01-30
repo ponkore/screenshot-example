@@ -1,0 +1,8 @@
+[package]
+name = "screenshot-sample"
+version = "0.1.0"
+authors = ["Masao KATO <ponkore@gmail.com>"]
+
+[dependencies]
+screenshot = "0.0.7"
+image = "*"
